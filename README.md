@@ -21,7 +21,7 @@ End the program and close the output image windows.
 ## Program:
 ### Developed By:
 ### Register Number: 
-i) #To Read,display the image
+## i) To Read,display the image
 ```python
 Developed by: Yuvaraj.S
 Register Number: 22008589
@@ -30,7 +30,7 @@ colors_img=cv2.imread('bike.webp',1)
 cv2.imshow('212222240119,Yuvaraj.S',colors_img)
 cv2.waitKey(0)
 ```
-ii) #To write the image
+## ii) To write the image
 ```python
 Developed by: Yuvaraj.S
 Register Number: 22008589
@@ -40,7 +40,7 @@ w=cv2.imwrite('1.png',color_img)
 cv2.imshow('212222240119,Yuvaraj.S',color_img)
 cv2.waitKey(0)
 ```
-iii) #Find the shape of the Image
+## iii) Find the shape of the Image
 ```python
 Developed by: Yuvaraj.S
 Register Number: 22008589
@@ -48,7 +48,7 @@ import cv2
 colorImage = cv2.imread('bike.webp',1)
 print(colorImage.shape)
 ```
-iv) #To access rows and columns
+## iv) To access rows and columns
 
 ```python
 Developed by: Yuvaraj.S
@@ -62,7 +62,7 @@ for i in range(100):
 cv2.imshow('212222240119,Yuvaraj.S',color_img)
 cv2.waitKey(0)
 ```
-v) #To cut and paste portion of image
+## v) To cut and paste portion of image
 ```python
 Developed by: Yuvaraj.S
 Register Number: 22008589
