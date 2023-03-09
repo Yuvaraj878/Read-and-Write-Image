@@ -19,8 +19,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: Yuvaraj.S 
+### Register Number: 22008589
 ## i) To Read,display the image
 ```python
 Developed by: Yuvaraj.S
