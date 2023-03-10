@@ -79,17 +79,23 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
+![Output](./Read%20Image%201.ipynb)
 ![Output](./img1.png)
 
 ### ii)Write the image
+![Output](./write%20image%202.ipynb)
 ![Output](./img2.png)
 
 ### iii)Shape of the Image
+![output](./shape%203.ipynb)
 ![Output](./img3.png)
 
 ### iv)Access rows and columns
+![Output](./access%20row%20and%20column%204.ipynb)
 ![Output](./img4.png)
+
 ### v)Cut and paste portion of image
+![Output](./cut%20and%20paste%205.ipynb)
 ![Output](./img5.png)
 
 ## Result:
