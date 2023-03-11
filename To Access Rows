@@ -1,0 +1,12 @@
+# Developed by : YUVARAJ.S
+# Register Number : 22008589
+import cv2
+import random
+color_img=cv2.imread('bike.webp',1)
+for i in range(100):
+    for j in range(color_img.shape[1]):
+        color_img[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
+cv2.imshow('212222240119,Yuvaraj.S',color_img)
+cv2.waitKey(0)
+
+

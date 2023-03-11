@@ -1,0 +1,10 @@
+# Developed by : YUVARAJ.S
+# Register Number : 22008589
+import cv2
+color_img = cv2.imread('bike.webp',1)
+color_img = cv2.resize(color_img, (300, 430))
+color_img[500:550,500:550]=[0,0,0]
+cut= color_img[37:111,108:195]
+color_img[0:74,0:87]=cut
+cv2.imshow('212222240119,Yuvaraj.S',color_img)
+cv2.waitKey(0)

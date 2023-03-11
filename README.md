@@ -23,8 +23,8 @@ End the program and close the output image windows.
 ### Register Number: 22008589
 ## i) To Read,display the image
 ```python
-Developed by: Yuvaraj.S
-Register Number: 22008589
+# Developed by: Yuvaraj.S
+# Register Number: 22008589
 import cv2
 colors_img=cv2.imread('bike.webp',1)
 cv2.imshow('212222240119,Yuvaraj.S',colors_img)
@@ -32,8 +32,8 @@ cv2.waitKey(0)
 ```
 ## ii) To write the image
 ```python
-Developed by: Yuvaraj.S
-Register Number: 22008589
+# Developed by: Yuvaraj.S
+# Register Number: 22008589
 import cv2
 color_img=cv2.imread('bike.webp',1)
 w=cv2.imwrite('1.png',color_img)
@@ -42,8 +42,8 @@ cv2.waitKey(0)
 ```
 ## iii) Find the shape of the Image
 ```python
-Developed by: Yuvaraj.S
-Register Number: 22008589
+# Developed by: Yuvaraj.S
+# Register Number: 22008589
 import cv2
 colorImage = cv2.imread('bike.webp',1)
 print(colorImage.shape)
@@ -51,8 +51,8 @@ print(colorImage.shape)
 ## iv) To access rows and columns
 
 ```python
-Developed by: Yuvaraj.S
-Register Number: 22008589
+# Developed by: Yuvaraj.S
+# Register Number: 22008589
 import cv2
 import random
 color_img=cv2.imread('bike.webp',1)
@@ -64,8 +64,8 @@ cv2.waitKey(0)
 ```
 ## v) To cut and paste portion of image
 ```python
-Developed by: Yuvaraj.S
-Register Number: 22008589
+# Developed by: Yuvaraj.S
+# Register Number: 22008589
 import cv2
 color_img = cv2.imread('bike.webp',1)
 color_img = cv2.resize(color_img, (300, 430))

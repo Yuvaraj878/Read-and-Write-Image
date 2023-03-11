@@ -1,0 +1,7 @@
+# Developed by : YUVARAJ.S
+# Register Number : 22008589
+import cv2
+colors_img=cv2.imread('bike.webp',1)
+cv2.imshow('212222240119,Yuvaraj.S',colors_img)
+cv2.waitKey(0)
+  

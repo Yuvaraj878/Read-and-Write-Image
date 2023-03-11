@@ -1,0 +1,7 @@
+# Developed by : YUVARAJ.S
+# Register Number : 22008589
+import cv2
+colorImage = cv2.imread('bike.webp',1)
+print(colorImage.shape)
+
+
